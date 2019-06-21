@@ -35,3 +35,5 @@ This should the same folder your server.cfg is in and the run.cmd
 #### Fourth- 
 Start the executable and your done! You now have a function Server Launch Manager! 
 Its also recommended that you create a shortcut for it on your Desktop too!
+
+### Support is available in our Discord!
