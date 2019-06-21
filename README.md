@@ -36,7 +36,7 @@ You will need to make sure the location of your server folder is in one of the f
 
 #### Third-
 Download the .zip archive and unzip it. 
-Move the "FiveM-Launch-Manager.exe" to your main server directory
+Move the "Server-Launch-Manager.exe" to your main server directory
 This should the same folder your server.cfg is in and the run.cmd
 
 #### Fourth- 
