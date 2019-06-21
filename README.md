@@ -25,6 +25,7 @@ You will need to make sure the location of your server folder is in one of the f
 - D:/FXServer/run.cmd
 - C:/FiveMServer/run.cmd
 - C:/FiveM/run.cmd
+- C:/FXServer_ESX/run.cmd
 
 #### Third-
 Download the .zip archive and unzip it. 
