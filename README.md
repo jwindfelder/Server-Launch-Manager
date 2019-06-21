@@ -2,7 +2,7 @@
 Launcher For FiveM Servers
 
 ![](https://i.ibb.co/Y2rkgQG/imageedit128-X128.png)
-![](https://i.ibb.co/thMJ8qY/Capture.png)
+![](https://i.ibb.co/SwQ2PNj/Capture.png)
 
 Join our Discord and FiveM Forum for more!
 https://forum.fivem.net
