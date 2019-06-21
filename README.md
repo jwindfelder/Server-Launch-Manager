@@ -11,7 +11,12 @@ https://Discord.io/FMLM
 ### Features
 
 - Starts FiveM Server Natively 
-- Clearing server cache, ULTIMATE FOLDER PATH MUST BE: C:\FXServer\cache\
+- Clearing server cache, ULTIMATE FOLDER PATH MUST BE: 
+   * C:/FXServer/cache
+   * D:/FXServer/cache
+   * C:/FiveMServer/cache
+   * C:/FiveM/cache
+   * C:/FXServer_ESX/cache
 - Opening the server.cfg file for easy management 
 - Quick access to the SQL Database of your server
 - Dark Mode!
