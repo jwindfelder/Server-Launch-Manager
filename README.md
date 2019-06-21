@@ -12,7 +12,8 @@ https://Discord.io/FMLM
 - Clearing server cache, ULTIMATE FOLDER PATH MUST BE: C:\FXServer\cache\
 - Opening the server.cfg file for easy management 
 - Quick access to the SQL Database of your server
-- And many more features to come! Want to recommend one? 
+- Dark Mode!
+- And many more features to come! Want to recommend one? https://forms.gle/15zrtftZscYjhhM76
 
 # Install Instructions
 ###### How to set-up and install FiveM Launch Manager
