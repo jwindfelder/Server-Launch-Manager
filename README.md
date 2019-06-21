@@ -4,7 +4,7 @@ Launcher For FiveM Servers
 ![](https://i.ibb.co/Y2rkgQG/imageedit128-X128.png)
 
 Join our Discord for more!
-<iframe src="https://discordapp.com/widget?id=591702971344093233&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+https://Discord.io/FMLM
 
 ### Features
 
