@@ -1,10 +1,11 @@
-# FiveM-Launch-Manager
+# Server-Launch-Manager
 Launcher For FiveM Servers
 
 ![](https://i.ibb.co/Y2rkgQG/imageedit128-X128.png)
 ![](https://i.ibb.co/thMJ8qY/Capture.png)
 
-Join our Discord for more!
+Join our Discord and FiveM Forum for more!
+https://forum.fivem.net
 https://Discord.io/FMLM
 
 ### Features
@@ -17,7 +18,7 @@ https://Discord.io/FMLM
 - And many more features to come! Want to recommend one? https://forms.gle/15zrtftZscYjhhM76
 
 # Install Instructions
-###### How to set-up and install FiveM Launch Manager
+###### How to set-up and install Server Launch Manager
 #### First- 
 You will need to have a FiveM Server (obviously)
 #### Second- 
@@ -37,4 +38,4 @@ This should the same folder your server.cfg is in and the run.cmd
 Start the executable and your done! You now have a function Server Launch Manager! 
 Its also recommended that you create a shortcut for it on your Desktop too!
 
-### Support is available in our Discord!
+### Support is available in our Discord and FiveM Forum!
